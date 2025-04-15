@@ -1,0 +1,18 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql+pymysql://root@localhost:3308/thecodingsahil",
+        "prod_uri": "mysql://root@localhost:3308/thecodingsahil",
+        "fb_url": "https://facebook.com/thecodingsahil",
+        "tw_url": "https://twitter.com/thecodingsahil",
+        "gt_url": "https://github.com/thecodingsahil",
+        "gmail-user": "your-email@gmail.com",
+        "gmail-password": "your-gmail-password",
+        "about-me": "Hey! I'm Sahil Murtuza, the organizer of TheCodingSahil blog. It's full of informative content. Connect on LinkedIn for more!",
+        "no_of_post": 2,
+        "blog_name": "TheCodingSahil",
+        "user_name": "your-username",
+        "user_password": "your-password",
+        "uploder_location": "static/assets/upload_img"
+    }
+}
